@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVByypAChv8=",
+  "success": true,
+  "projectFilePath": "/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/ConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "/home/ramazan/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.0/microsoft.aspnetcore.app.ref.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
