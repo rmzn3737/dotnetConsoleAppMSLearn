@@ -1,0 +1,15 @@
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/net9.0/ConsoleApplication
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/net9.0/ConsoleApplication.deps.json
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/net9.0/ConsoleApplication.runtimeconfig.json
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/net9.0/ConsoleApplication.dll
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/net9.0/ConsoleApplication.pdb
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.AssemblyInfoInputs.cache
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.AssemblyInfo.cs
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.csproj.CoreCompileInputs.cache
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.sourcelink.json
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.dll
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/refint/ConsoleApplication.dll
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.pdb
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ConsoleApplication.genruntimeconfig.cache
+/home/ramazan/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/net9.0/ref/ConsoleApplication.dll
